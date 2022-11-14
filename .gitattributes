@@ -1,0 +1,4 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.aid filter=lfs diff=lfs merge=lfs -text
+*.aif filter=lfs diff=lfs merge=lfs -text
+*.sdif filter=lfs diff=lfs merge=lfs -text
