@@ -637,7 +637,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1129.5, 176.5, 59.0, 22.0 ],
-					"text" : "mute 1, 0"
+					"text" : "mute 0, 1"
 				}
 
 			}
@@ -673,7 +673,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 992.333333333333371, 450.0, 58.0, 22.0 ],
-					"text" : "0 0 0 0 0"
+					"text" : "1 1 1 1 1"
 				}
 
 			}
@@ -1133,7 +1133,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "formant.polyCore.maxpat",
-				"bootpath" : "~/Desktop/Senior 2022-2023/Semester 1/Sound Synthesis Techniques/sound-synth-tech/Week 6/subtractive_boiler_patches_export",
+				"bootpath" : "~/Documents/sound-synth-tech-final/sound-synth-tech-final/Week 6",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
