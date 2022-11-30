@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 476.0, 115.0, 988.0, 747.0 ],
+		"rect" : [ 301.0, 113.0, 988.0, 747.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1000,6 +1000,7 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-22",
+													"linecount" : 2,
 													"maxclass" : "newobj",
 													"numinlets" : 0,
 													"numoutlets" : 1,
@@ -1014,7 +1015,7 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-21",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -1615,7 +1616,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 110.666670262813568, 479.0, 50.0, 62.0 ],
-					"text" : "1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1"
+					"text" : "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
 				}
 
 			}
@@ -1628,7 +1629,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 168.5, 479.0, 50.0, 62.0 ],
-					"text" : "0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0"
+					"text" : "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
 				}
 
 			}
@@ -3326,8 +3327,8 @@
 			"obj-22.14::obj-16" : [ "live.gain~[12]", "live.gain~", 0 ],
 			"obj-22.15::obj-16" : [ "live.gain~[13]", "live.gain~", 0 ],
 			"obj-22.16::obj-16" : [ "live.gain~[14]", "live.gain~", 0 ],
-			"obj-22.1::obj-16" : [ "live.gain~[15]", "live.gain~", 0 ],
-			"obj-22.2::obj-16" : [ "live.gain~[16]", "live.gain~", 0 ],
+			"obj-22.1::obj-16" : [ "live.gain~[16]", "live.gain~", 0 ],
+			"obj-22.2::obj-16" : [ "live.gain~[15]", "live.gain~", 0 ],
 			"obj-22.3::obj-16" : [ "live.gain~[1]", "live.gain~", 0 ],
 			"obj-22.4::obj-16" : [ "live.gain~[2]", "live.gain~", 0 ],
 			"obj-22.5::obj-16" : [ "live.gain~[3]", "live.gain~", 0 ],
@@ -3374,7 +3375,7 @@
 				}
 ,
 				"obj-22.1::obj-16" : 				{
-					"parameter_longname" : "live.gain~[15]"
+					"parameter_longname" : "live.gain~[16]"
 				}
 ,
 				"obj-22.3::obj-16" : 				{
@@ -3428,7 +3429,7 @@
 			}
 , 			{
 				"name" : "sampler.polyCore.v01maxpat.maxpat",
-				"bootpath" : "~/Documents/SoundSynthTech2/sound-synth-tech/Week 9/week.9.day.2.sampling",
+				"bootpath" : "~/Documents/sound-synth-tech-final/sound-synth-tech-final/Week 9/week.9.day.2.sampling",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
